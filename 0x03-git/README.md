@@ -1,1 +1,1 @@
-My second commit
+Its funny using Git
